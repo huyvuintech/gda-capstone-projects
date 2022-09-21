@@ -1,0 +1,12 @@
+This document is the Challenge 2's executive summary created as part of the capstone projects for the Google Data Analytics Certificate. 
+
+**Context:**
+
+The objective of this case study is to learn about tracking device data to gain insight into user behavior, which will become a source of information for recommendations for Bellabeat’s marketing strategy. 
+
+**Key recommendations:**
+*	“Daily Challenge” campaign or feature that continuously engages Bellabeat’s users to use its products daily with an incentive of rewards or recognition in the community. 
+*	“Sleep Notification” CRM campaign or feature that reminds or alerts users to keep track of and improve their sleep time. 
+*	Partnership with media outlets or fashion brands to embrace the use of Bellabeat’s devices not only as health-tracking devices but also as fashion accessories in their day-to-day.  
+
+**Tools used:** R programming language (Rstudio), Google Slides
