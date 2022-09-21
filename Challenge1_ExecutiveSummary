@@ -1,0 +1,12 @@
+This document is the Challenge 1's executive summary created as part of the capstone projects for the Google Data Analytics Certificate. 
+
+**Context:**
+
+Cyclistic’s bike-share service declares the importance of annual membership as the key factor of growth for the business. This analysis focuses on (1) defining key differences in behaviors between casual and member users, (2) identifying key leverages to convert casual users to members, and (3) identifying digital media approaches to influence the conversion.
+
+**Key recommendations:**
+*	Promotional campaign in May – October that revamps fee structure focusing on docked and electric bikes for casual users.
+*	Loyalty reward programs focusing on leisure aspects, including partnerships with local shopping centers, attraction sites, and local restaurants.
+*	Marketing strategies focus on digital media leverage including SEO, advertising, social media, and CRM through email marketing, and OOH activations.
+
+Tools used: R (data wrangling and initial analyses), Tableau (data visualization), Google Slides (data presentation).
