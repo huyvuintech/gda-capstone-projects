@@ -5,8 +5,16 @@ This document is the Challenge 1's executive summary created as part of the caps
 Cyclistic’s bike-share service declares the importance of annual membership as the key factor of growth for the business. This analysis focuses on (1) defining key differences in behaviors between casual and member users, (2) identifying key leverages to convert casual users to members, and (3) identifying digital media approaches to influence the conversion.
 
 **Key recommendations:**
-*	Promotional campaign in May – October that revamps fee structure focusing on docked and electric bikes for casual users.
-*	Loyalty reward programs focusing on leisure aspects, including partnerships with local shopping centers, attraction sites, and local restaurants.
-*	Marketing strategies focus on digital media leverage including SEO, advertising, social media, and CRM through email marketing, and OOH activations.
+*	Loyalty programs leveraging shopping behavior while traveling allow users to turn ride time into shopping rewards. 
+* Promotional season for casual users is considered to be May – October, promoting special fee discounts focusing on docked/electric bikes. 
+* Utilizing digital review sites like Yelp or ticketing sites to promote our campaign. Plus, partnership with these sites helps to control relationship management and send promotional events during the peak season. 
+
+
+**Key insights:**
+* Casual users use docked/electric bikes to travel to attraction sites and shopping places nearby, while member users use traditional/electric bikes to travel to or from work. Plus, casual users spend more time using bike-share services than members do.
+* Attraction sites have multiple sources of information for users to get information and buy tickets in advance online. 
+* Service fees for electric bikes are charged by the time used and unlock fees for docked bikes 
+* Peak season of bike-share service for both user types usage is May – October which is the summer season. 
+
 
 Tools used: R (data wrangling and initial analyses), Tableau (data visualization), Google Slides (data presentation).
