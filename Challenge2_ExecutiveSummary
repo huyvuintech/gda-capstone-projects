@@ -5,8 +5,15 @@ This document is the Challenge 2's executive summary created as part of the caps
 The objective of this case study is to learn about tracking device data to gain insight into user behavior, which will become a source of information for recommendations for Bellabeat’s marketing strategy. 
 
 **Key recommendations:**
-*	“Daily Challenge” campaign or feature that continuously engages Bellabeat’s users to use its products daily with an incentive of rewards or recognition in the community. 
-*	“Sleep Notification” CRM campaign or feature that reminds or alerts users to keep track of and improve their sleep time. 
-*	Partnership with media outlets or fashion brands to embrace the use of Bellabeat’s devices not only as health-tracking devices but also as fashion accessories in their day-to-day.  
+* “Daily Challenge” campaign or feature (long-term) helps engage all users to wear the devices and keep track of their health, especially to encourage the importance of health tracking to low-use users (wear devices less than 30% of the days in a month).
+* “Sleep notification” CRM message/function keeps track of the sleep time of users. This message reminds users to analyze detailed activities during the day and gives valuable insights into adjusting them to spend more time on sleep. 
+* Partnership with fashion brands to promote a healthy and fashionable lifestyle. 
+
+**Key insights:**
+* 50% of the sample responses use more than 70% of the sample month (high-use users), while 38% use less than 30% of that (low-use users). 
+* All users sleep less than the standard amount of 8 hours (480 minutes). 
+* Most users once use the devices keep them on for more than half of the day (12 hours) 
+* Users wearing the devices more than 70% of the month (high-use) have more steps taken per day, while users wearing the devices less than 30% of the month (low-use) have higher calories burnt and less sleep time compared to average figures.
+* Key proposition of Bellabeat’s products is that are both health-conscious and fashionable for women.
 
 **Tools used:** R programming language (Rstudio), Google Slides
